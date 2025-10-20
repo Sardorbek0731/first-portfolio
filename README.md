@@ -1,3 +1,3 @@
-# first__portfolio
+# Portfolio
 
 https://sardorbek0731.netlify.app/
